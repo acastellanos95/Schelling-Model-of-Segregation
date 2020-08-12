@@ -7,4 +7,4 @@ An agent will check if its neighbors race ratio is greater than a threshold, it 
 ## Application
 Small codes in Python, C++ and C# of Schelling's segregation model.
 
-![](https://raw.githubusercontent.com/acastellanos95/Game-of-Life/master/game-of-life.gif)
+![](https://raw.githubusercontent.com/acastellanos95/Schelling-Model-of-Segregation/master/Schelling.gif)
