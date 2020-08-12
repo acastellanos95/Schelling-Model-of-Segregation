@@ -1,3 +1,6 @@
 # Schelling-Model-of-Segregation
-A small code in python of the Schelling model of segregation.
-![](Schelling.gif)
+
+##  Thomas Schelling
+Thomas Schelling was an american economist who won a nobel award in economics. His 1978 book _Micromotives and Macrobehavior_ expanded on and generalized these themes and is often cited in the literature of agent-based computational economics
+##  Rules
+An agent will check if its neighbors race ratio is greater than a threshold, it will find another empty space to move.
