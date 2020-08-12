@@ -10,7 +10,7 @@
 #include "SchellingClass.h"
 
 int main(void) {
-	SchellingClass schelling_game(20, 1000, 0.3);
+	SchellingClass schelling_game(30, 500, 0.3);
 	schelling_game.shuffle();
 	schelling_game.play();
 	schelling_game.display();
